@@ -1,1 +1,10 @@
-src/cli/cli.js
+src/
+ ├── cli
+ ├── file-handler
+ ├── parser
+ ├── store
+ ├── translation-memory
+ ├── translator
+ ├── utils
+ ├── web-component
+ └── workflow
